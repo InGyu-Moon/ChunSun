@@ -45,3 +45,10 @@
     - 비동기 이벤트 기반 보상 트랜잭션 적용 및 **안정성** 강화
 - **관련 포스팅**
     - https://bangbaeking.tistory.com/160
+
+## Related Posts
+- [[Spring Cloud] Spring Cloud Gateway (그리고 Zuul 와 Netty)](https://bangbaeking.tistory.com/154)
+- [[Docker] DinD 와 DooD](https://bangbaeking.tistory.com/156)
+- [[Spring Cloud] MSA 서버 간 호출방식 비교](https://bangbaeking.tistory.com/157)
+- [[MSA] MSA 환경에서의 분산 트랜잭션 처리(2PC, SAGA)](https://bangbaeking.tistory.com/159)
+
